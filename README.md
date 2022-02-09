@@ -4,13 +4,9 @@ A Python Pygame version of chrome://dino
 Controls:
 
     Jump: W, Up Arrowkey, Space
-    
     Crouch: S, Down Arrowkey
-    
     Pause: Left/Right Shift
-    
     Restart: Tab
-    
     Quit: Escape
 
 You can change the FPS, scrollrate, gravity and pause state variables.
